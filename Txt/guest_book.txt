@@ -1,0 +1,5 @@
+WWW
+XXX
+TTT
+ppp
+& E:/Anaconda/python.exe e:/2022ื๗าต/Python/VSCode/Work9.py
